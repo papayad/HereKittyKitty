@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EDF7B135-2AE1-B9E9-611C-2D9B5E6EC9B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pspsps.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pspsps.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HereKittyKittyGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Pspsps.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0aa3031f-33eb-4e8f-80c2-8681a25beddd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
